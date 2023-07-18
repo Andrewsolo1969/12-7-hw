@@ -50,7 +50,7 @@ master-slave-slave-...уменьшает в разы нагрузку и ско�
 
 Каждая таблица находится на отдельном сервере.
 
-![vertical.PNG](https://github.com/Andrewsolo1969/12-7-hw/blob/master/img/vertical.PNG)
+![vertical.PNG](https://github.com/Andrewsolo1969/12-7-hw/blob/main/img/vertical.PNG)
 
 
 ## Горизонтальный шардинг
@@ -62,7 +62,7 @@ master-slave-slave-...уменьшает в разы нагрузку и ско�
 таблица Магазины  перенесена полностью в отдельный сервер без изменений
 
 
-![Gorizontal.PNG](https://github.com/Andrewsolo1969/12-7-hw/blob/master/img/Gorizontal.PNG)
+![Gorizontal.PNG](https://github.com/Andrewsolo1969/12-7-hw/blob/main/img/Gorizontal.PNG)
 
 
 
